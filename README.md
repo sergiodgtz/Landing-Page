@@ -6,3 +6,6 @@ Credits for the images
 -Stephanie Casanova
 -Nesrin Öztürk
 -sergio souza
+
+Credits for some of the text:
+- https://en.wikipedia.org/wiki/Dog
